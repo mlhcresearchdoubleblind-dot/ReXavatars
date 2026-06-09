@@ -1,19 +1,19 @@
 File Name,Pathology_expert_1,Realism_expert_1,Composition_expert_1,Presentation_expert_1,Pathology_expert_2,Realism_expert_2,Composition_expert_2,Presentation_expert_2,prompt
-7_mm_size_of_pupil_in_one_eye_and_3_mm_pupil_size_in_the_other_eye_20260412_204807,3,3,3,3,,,,,
-acute_foot_gout_involving_swelling_and_redness_at_the_ankle_20260412_211526,3,3,3,3,3.0,3.0,3.0,3.0,
-arm_length_asymmetry_caused_by_difference_in_forearm_length_20260412_210720,0,3,2,0,3.0,3.0,3.0,1.0,
-asymmetric_mouth_opening_with_curved_opening_trajectory_20260412_205025,3,3,3,3,2.0,3.0,3.0,3.0,
-asymmetric_reddened_swelling_in_parotid_glands_suggestive_of_mumps_20260412_205235,1,3,2,2,,,,,
-asymmetric_smile_resulting_from_maxillary_cant_20260412_205136,0,3,3,0,,,,,
-bilateral_anterior_blepharitis_with_diffuse_seborrheic_scaling_and_minimal_redne_20260412_204517,3,3,3,3,3.0,3.0,3.0,3.0,
-bilateral_digital_clubbing_with_bulbous_fingertip_shape_20260412_210915,3,3,3,3,3.0,3.0,3.0,3.0,
-bilateral_eyebrow_ptosis_especially_affecting_lateral_brows_20260412_204834,1,3,3,1,3.0,3.0,3.0,3.0,
-bilateral_nasal_tip_collapse_with_flattened_shape_20260412_205904,0,3,2,0,0.0,3.0,3.0,3.0,
-bilateral_proptosis_with_prominent_scleral_show_20260412_204617,3,3,3,3,3.0,3.0,3.0,3.0,
-boutonniere_deformity_showing_pronounced_proximal_interphalangeal_flexion_and_di_20260412_211205,3,3,3,3,,,,,
-brachydactyly_where_multiple_fingers_show_distal_phalanx_absence_20260412_210845,3,3,3,3,3.0,3.0,3.0,3.0,
-broken_ulna_closed_fracture_with_visible_angulation_without_casts_or_bandages_20260412_210622,0,0,0,0,0.0,0.0,1.0,1.0,
-cauliflower_ear_suggesting_repeat_injury_with_partial_loss_of_folds_20260412_205549,3,3,3,3,,,,,
+7_mm_size_of_pupil_in_one_eye_and_3_mm_pupil_size_in_the_other_eye_20260412_204807,3,3,3,3,,,,,7 mm size of pupil in one eye and 3 mm pupil size in the other eye
+acute_foot_gout_involving_swelling_and_redness_at_the_ankle_20260412_211526,3,3,3,3,3.0,3.0,3.0,3.0,Acute foot gout involving swelling and redness at the ankle
+arm_length_asymmetry_caused_by_difference_in_forearm_length_20260412_210720,0,3,2,0,3.0,3.0,3.0,1.0,Arm length asymmetry caused by difference in forearm length
+asymmetric_mouth_opening_with_curved_opening_trajectory_20260412_205025,3,3,3,3,2.0,3.0,3.0,3.0,Asymmetric mouth opening with curved opening trajectory
+asymmetric_reddened_swelling_in_parotid_glands_suggestive_of_mumps_20260412_205235,1,3,2,2,,,,,Asymmetric reddened swelling in parotid glands suggestive of mumps
+asymmetric_smile_resulting_from_maxillary_cant_20260412_205136,0,3,3,0,,,,,Asymmetric smile resulting from maxillary cant
+bilateral_anterior_blepharitis_with_diffuse_seborrheic_scaling_and_minimal_redne_20260412_204517,3,3,3,3,3.0,3.0,3.0,3.0,"Bilateral anterior blepharitis with diffuse, seborrheic scaling and minimal redness"
+bilateral_digital_clubbing_with_bulbous_fingertip_shape_20260412_210915,3,3,3,3,3.0,3.0,3.0,3.0,Bilateral digital clubbing with bulbous fingertip shape
+bilateral_eyebrow_ptosis_especially_affecting_lateral_brows_20260412_204834,1,3,3,1,3.0,3.0,3.0,3.0,Bilateral eyebrow ptosis especially affecting lateral brows
+bilateral_nasal_tip_collapse_with_flattened_shape_20260412_205904,0,3,2,0,0.0,3.0,3.0,3.0,Bilateral nasal tip collapse with flattened shape
+bilateral_proptosis_with_prominent_scleral_show_20260412_204617,3,3,3,3,3.0,3.0,3.0,3.0,Bilateral proptosis with prominent scleral show
+boutonniere_deformity_showing_pronounced_proximal_interphalangeal_flexion_and_di_20260412_211205,3,3,3,3,,,,,Boutonniere deformity showing pronounced proximal interphalangeal flexion and distal interphalangeal hyperextension
+brachydactyly_where_multiple_fingers_show_distal_phalanx_absence_20260412_210845,3,3,3,3,3.0,3.0,3.0,3.0,Brachydactyly where multiple fingers show distal phalanx absence
+broken_ulna_closed_fracture_with_visible_angulation_without_casts_or_bandages_20260412_210622,0,0,0,0,0.0,0.0,1.0,1.0,"Broken ulna (closed fracture) with visible angulation, without casts or bandages"
+cauliflower_ear_suggesting_repeat_injury_with_partial_loss_of_folds_20260412_205549,3,3,3,3,,,,,Cauliflower ear suggesting repeat injury with partial loss of folds
 cavitated_caries_affecting_multiple_teeth.png,3,3,3,3,2.0,2.0,3.0,3.0,Cavitated caries affecting multiple teeth
 circumduction_gait_associated_with_unilateral_foot_drop.png,0,3,3,0,,,,,Circumduction gait associated with unilateral foot drop
 cleft_lip_extending_to_nostril.png,3,3,3,3,3.0,3.0,3.0,3.0,Cleft lip extending to nostril
