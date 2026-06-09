@@ -1,0 +1,41 @@
+File Name,Pathology_expert_1,Realism_expert_1,Composition_expert_1,Counting_expert_1,Pathology_expert_2,Realism_expert_2,Composition_expert_2,Counting_expert_2,prompt
+five_pimples_on_face.png,3,3,3,0,3.0,2.0,3.0,0.0,Five pimples on face
+five_swollen_insect_bites_in_total_appearing_across_two_arms.png,3,1,3,0,,,,,"Five swollen insect bites in total, appearing across two arms"
+four_moles_on_back.png,3,3,3,0,3.0,3.0,3.0,0.0,Four moles on back
+four_pimples_on_face.png,3,2,3,0,3.0,3.0,3.0,0.0,Four pimples on face
+four_swollen_insect_bites_in_total_appearing_across_two_arms.png,3,1,3,0,,,,,"Four swollen insect bites in total, appearing across two arms"
+four_warts_in_total_appearing_across_two_hands.png,3,3,3,0,,,,,"Four warts in total, appearing across two hands"
+mesoaxial_polydactyly_affecting_one_foot.png,3,3,3,3,3.0,3.0,3.0,3.0,Mesoaxial polydactyly affecting one foot
+mesoaxial_polydactyly_affecting_one_hand.png,1,0,3,0,2.0,3.0,3.0,3.0,Mesoaxial polydactyly affecting one hand
+oligodactyly_affecting_one_hand_while_other_hand_is_anatomically_normal.png,0,3,3,0,0.0,2.0,3.0,0.0,Oligodactyly affecting one hand while other hand is anatomically normal
+oligodactyly_with_four_fingers_on_one_hand.png,3,3,3,3,2.0,2.0,3.0,3.0,Oligodactyly with four fingers on one hand
+oligodactyly_with_four_toes_on_one_foot.png,0,3,3,0,0.0,3.0,3.0,0.0,Oligodactyly with four toes on one foot
+oligodactyly_with_three_fingers_on_one_hand.png,3,3,3,3,,,,,Oligodactyly with three fingers on one hand
+oligodactyly_with_three_toes_on_one_foot.png,0,3,0,0,,,,,Oligodactyly with three toes on one foot
+polydactyly_affecting_one_hand_while_other_hand_is_anatomically_normal.png,3,1,3,3,,,,,Polydactyly affecting one hand while other hand is anatomically normal
+postaxial_polydactyly_affecting_one_foot.png,3,3,3,3,2.0,3.0,3.0,3.0,Postaxial polydactyly affecting one foot
+postaxial_polydactyly_affecting_one_hand.png,0,3,3,0,,,,,Postaxial polydactyly affecting one hand
+preaxial_polysyndactyly_affecting_one_foot.png,0,2,3,3,1.0,3.0,3.0,3.0,Preaxial polysyndactyly affecting one foot
+preaxial_polysyndactyly_affecting_one_hand.png,0,3,3,0,0.0,3.0,3.0,0.0,Preaxial polysyndactyly affecting one hand
+supernumerary_nipple_on_each_side_of_the_chest.png,3,3,3,3,,,,,Supernumerary nipple on each side of the chest
+supernumerary_nipple_on_one_side_of_the_chest.png,3,3,3,3,3.0,3.0,3.0,3.0,Supernumerary nipple on one side of the chest
+syndactyly_connecting_second_and_third_fingers.png,3,3,3,0,2.0,2.0,3.0,0.0,Syndactyly connecting second and third fingers
+syndactyly_connecting_second_and_third_toes.png,3,3,3,0,,,,,Syndactyly connecting second and third toes
+syndactyly_with_second_and_third_fingers_connected_as_well_as_fourth_and_fifth_f.png,3,3,3,0,1.0,3.0,3.0,0.0,Syndactyly with second and third fingers connected as well as fourth and fifth fingers
+syndactyly_with_second_and_third_toes_connected_as_well_as_fourth_and_fifth_toes.png,3,3,3,0,,,,,Syndactyly with second and third toes connected as well as fourth and fifth toes
+syndactyly_with_second_and_third_toes_connected_as_well_as_third_and_fourth_toes.png,1,3,3,0,1.0,3.0,3.0,3.0,Syndactyly with second and third toes connected as well as third and fourth toes
+syndactyly_with_second_third_and_fourth_fingers_connected.png,3,2,3,3,1.0,3.0,3.0,3.0,"Syndactyly with second, third, and fourth fingers connected"
+three_moles_on_back.png,3,3,3,3,3.0,3.0,3.0,3.0,Three moles on back
+three_pimples_on_face.png,3,3,3,0,,,,,Three pimples on face
+three_swollen_insect_bites_in_total_appearing_across_two_arms.png,3,1,3,0,,,,,"Three swollen insect bites in total, appearing across two arms"
+three_warts_in_total_appearing_across_two_hands.png,3,3,3,3,3.0,3.0,3.0,3.0,"Three warts in total, appearing across two hands"
+tooth_decay_affecting_all_lower_incisors_no_other_teeth_affected.png,3,3,3,3,,,,,"Tooth decay affecting all lower incisors, no other teeth affected"
+tooth_decay_affecting_only_three_incisors.png,3,3,3,3,,,,,Tooth decay affecting only three incisors
+tooth_decay_affecting_only_two_incisors.png,3,3,3,3,,,,,Tooth decay affecting only two incisors
+tooth_decay_affecting_only_upper_lateral_incisors.png,3,3,3,3,,,,,Tooth decay affecting only upper lateral incisors
+trigger_finger_tenosynovitis_affecting_digit_finger_only.png,3,3,3,3,2.0,3.0,3.0,0.0,Trigger finger tenosynovitis affecting digit finger only
+trigger_finger_tenosynovitis_affecting_fifth_digit_only.png,1,1,1,3,,,,,Trigger finger tenosynovitis affecting fifth digit only
+trigger_finger_tenosynovitis_affecting_second_digit_only.png,1,0,3,0,,,,,Trigger finger tenosynovitis affecting second digit only
+trigger_finger_tenosynovitis_affecting_third_digit_only.png,3,3,3,0,,,,,Trigger finger tenosynovitis affecting third digit only
+two_moles_on_back.png,3,3,3,3,,,,,Two moles on back
+two_warts_in_total_appearing_across_two_hands.png,3,3,3,3,3.0,3.0,3.0,3.0,"Two warts in total, appearing across two hands"

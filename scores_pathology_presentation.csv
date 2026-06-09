@@ -1,0 +1,81 @@
+File Name,Pathology_expert_1,Realism_expert_1,Composition_expert_1,Presentation_expert_1,Pathology_expert_2,Realism_expert_2,Composition_expert_2,Presentation_expert_2,prompt
+7_mm_size_of_pupil_in_one_eye_and_3_mm_pupil_size_in_the_other_eye_20260412_204807,3,3,3,3,,,,,
+acute_foot_gout_involving_swelling_and_redness_at_the_ankle_20260412_211526,3,3,3,3,3.0,3.0,3.0,3.0,
+arm_length_asymmetry_caused_by_difference_in_forearm_length_20260412_210720,0,3,2,0,3.0,3.0,3.0,1.0,
+asymmetric_mouth_opening_with_curved_opening_trajectory_20260412_205025,3,3,3,3,2.0,3.0,3.0,3.0,
+asymmetric_reddened_swelling_in_parotid_glands_suggestive_of_mumps_20260412_205235,1,3,2,2,,,,,
+asymmetric_smile_resulting_from_maxillary_cant_20260412_205136,0,3,3,0,,,,,
+bilateral_anterior_blepharitis_with_diffuse_seborrheic_scaling_and_minimal_redne_20260412_204517,3,3,3,3,3.0,3.0,3.0,3.0,
+bilateral_digital_clubbing_with_bulbous_fingertip_shape_20260412_210915,3,3,3,3,3.0,3.0,3.0,3.0,
+bilateral_eyebrow_ptosis_especially_affecting_lateral_brows_20260412_204834,1,3,3,1,3.0,3.0,3.0,3.0,
+bilateral_nasal_tip_collapse_with_flattened_shape_20260412_205904,0,3,2,0,0.0,3.0,3.0,3.0,
+bilateral_proptosis_with_prominent_scleral_show_20260412_204617,3,3,3,3,3.0,3.0,3.0,3.0,
+boutonniere_deformity_showing_pronounced_proximal_interphalangeal_flexion_and_di_20260412_211205,3,3,3,3,,,,,
+brachydactyly_where_multiple_fingers_show_distal_phalanx_absence_20260412_210845,3,3,3,3,3.0,3.0,3.0,3.0,
+broken_ulna_closed_fracture_with_visible_angulation_without_casts_or_bandages_20260412_210622,0,0,0,0,0.0,0.0,1.0,1.0,
+cauliflower_ear_suggesting_repeat_injury_with_partial_loss_of_folds_20260412_205549,3,3,3,3,,,,,
+cavitated_caries_affecting_multiple_teeth.png,3,3,3,3,2.0,2.0,3.0,3.0,Cavitated caries affecting multiple teeth
+circumduction_gait_associated_with_unilateral_foot_drop.png,0,3,3,0,,,,,Circumduction gait associated with unilateral foot drop
+cleft_lip_extending_to_nostril.png,3,3,3,3,3.0,3.0,3.0,3.0,Cleft lip extending to nostril
+cleft_lobule.png,3,3,3,3,2.0,2.0,3.0,3.0,Cleft lobule
+closed_tibia_fracture_with_visible_angulation.png,0,3,3,0,1.0,3.0,3.0,2.0,Closed tibia fracture with visible angulation
+complete_madarosis_affecting_upper_eyelids_and_partial_madarosis_affecting_lower.png,2,3,3,2,3.0,3.0,3.0,3.0,Complete madarosis affecting upper eyelids and partial madarosis affecting lower eyelids
+deep_focal_pectus_excavatum_non_sexual_medical_image_of_male_patient.png,2,3,3,2,,,,,"Deep focal pectus excavatum (non-sexual, medical image of male patient)"
+deep_saddle_nose_involving_both_bone_and_cartilage.png,1,3,3,1,1.0,1.0,3.0,3.0,Deep saddle nose involving both bone and cartilage
+deviated_columella_that_is_centered_at_base_but_tilted_leading_the_tip_of_the_no.png,0,3,3,0,,,,,"Deviated columella that is centered at base but tilted, leading the tip of the nose to be off-center"
+disproportionate_severe_microcephaly.png,2,3,3,2,2.0,3.0,3.0,3.0,Disproportionate severe microcephaly
+dupuytrens_contracture_involving_palmar_nodules_and_contraction_of_multiple_fing.png,1,3,3,1,,,,,Dupuytren’s contracture involving palmar nodules and contraction of multiple fingers
+effusion_of_unilateral_knee_joint_with_mild_erythema.png,3,3,3,3,3.0,3.0,3.0,3.0,Effusion of unilateral knee joint with mild erythema
+enlarged_pad_of_fat_that_develops_between_the_shoulders_or_at_the_base_of_the_ne.png,3,3,3,3,1.0,2.0,3.0,3.0,Enlarged pad of fat that develops between the shoulders or at the base of the neck
+excessively_high_foot_arch_with_clawing_toes.png,3,3,3,3,,,,,Excessively high foot arch with clawing toes
+flat_foot_with_fully_flattened_arch.png,3,3,3,3,,,,,Flat foot with fully flattened arch
+frontal_bossing_with_prominent_supraorbital_ridge.png,2,3,3,2,3.0,3.0,3.0,2.0,Frontal bossing with prominent supraorbital ridge
+generalized_gum_hyperplasia_extending_coronally_over_tooth_surfaces.png,3,3,3,3,3.0,2.0,3.0,3.0,Generalized gum hyperplasia extending coronally over tooth surfaces
+heavy_yellow_supragingival_tartar_affecting_multiple_teeth.png,3,3,3,3,,,,,Heavy yellow supragingival tartar affecting multiple teeth
+hip_abductor_weakness_characterized_by_pelvis_drops_on_the_side_of_the_lifted_le.png,1,3,2,1,,,,,Hip abductor weakness characterized by pelvis drops on the side of the lifted leg during single-leg stance
+hyperlordosis_with_anterior_pelvic_tilt.png,2,3,2,2,,,,,Hyperlordosis with anterior pelvic tilt
+hypodontia_with_conical_widely_spaced_teeth.png,3,3,3,3,,,,,"Hypodontia with conical, widely spaced teeth"
+incomplete_unilateral_cleft_palate_affecting_hard_and_soft_palate.png,3,3,3,3,,,,,Incomplete unilateral cleft palate affecting hard and soft palate
+knee_affected_by_prominent_bakers_cyst_without_signs_of_infection_or_rupture.png,1,2,3,3,2.0,2.0,3.0,3.0,Knee affected by prominent Baker's cyst without signs of infection or rupture
+kyphosis_with_sharp_angulation.png,1,3,2,1,3.0,3.0,2.0,3.0,Kyphosis with sharp angulation
+large_asymetrical_goiter.png,3,3,3,3,3.0,3.0,2.0,3.0,"Large, asymetrical goiter"
+lateral_temporomandibular_joint_dislocation_with_chin_deviating_to_one_side.png,1,3,3,1,,,,,Lateral temporomandibular joint dislocation with chin deviating to one side
+laterally_displaced_and_tilted_patella_relative_to_trochlear_alignment.png,0,3,3,0,2.0,3.0,3.0,3.0,Laterally displaced and tilted patella relative to trochlear alignment
+localized_cervical_lymphadenopathy_affecting_anterior_compartment.png,3,2,3,3,,,,,Localized cervical lymphadenopathy affecting anterior compartment
+macroglossia_with_an_extended_tongue_touching_the_bottom_of_the_chin.png,3,3,3,3,,,,,Macroglossia with an extended tongue touching the bottom of the chin
+macrotia_affecting_one_ear_while_other_ear_is_normal.png,1,3,3,1,,,,,Macrotia affecting one ear while other ear is normal
+mallet_finger_resisting_passive_extension.png,1,3,3,3,,,,,Mallet finger resisting passive extension
+mesoaxial_polydactyly_affecting_one_hand.png,2,1,3,3,2.0,3.0,3.0,3.0,Mesoaxial polydactyly affecting one hand
+microtia_with_incomplete_structure.png,0,3,3,0,1.0,3.0,3.0,3.0,Microtia with incomplete structure
+moderate_genu_recurvatum_showing_obvious_backward_angulation_without_genu_varus_.png,0,3,3,0,,,,,"Moderate genu recurvatum showing obvious backward angulation, without genu varus or genu valgus"
+moderate_hyperextensible_arachnodactyly_without_flexion_contractures.png,0,3,3,0,1.0,3.0,3.0,1.0,"Moderate, hyperextensible arachnodactyly without flexion contractures"
+moderate_overbite_visible_at_rest_without_smiling.png,1,3,1,1,,,,,"Moderate overbite visible at rest, without smiling"
+outward_clinodactyly_affecting_the_fifth_digit.png,0,3,2,0,,,,,Outward clinodactyly affecting the fifth digit
+partial_arrhinia_with_visible_nostrils.png,0,3,3,1,,,,,Partial arrhinia with visible nostrils
+partial_syndactyly_connecting_fingers_at_the_proximal_interphalangeal_joint.png,2,2,3,3,,,,,Partial syndactyly connecting fingers at the proximal interphalangeal joint
+pectus_carinatum_with_chondrogladiolar_prominence_non_sexual_medical_image_of_ma.png,0,3,2,0,0.0,3.0,3.0,3.0,"Pectus carinatum with chondrogladiolar prominence (non-sexual, medical image of male patient)"
+prognathism_with_chin_ptosis.png,2,3,3,2,2.0,3.0,3.0,3.0,Prognathism with chin ptosis
+prominent_bunion_leading_to_overlapping_toes.png,0,3,3,0,1.0,3.0,1.0,2.0,Prominent bunion leading to overlapping toes
+rhinophyma_with_enlarged_pores_and_irregular_bulging_nodules.png,3,3,3,3,,,,,Rhinophyma with enlarged pores and irregular bulging nodules
+rounded_unilateral_transtibial_amputation.png,3,3,3,3,3.0,3.0,3.0,3.0,Rounded unilateral transtibial amputation
+severe_hammertoe_affecting_all_toes_except_the_great_toe.png,3,3,3,3,3.0,3.0,3.0,3.0,Severe hammertoe affecting all toes except the great toe
+severe_s_shaped_scoliosis.png,1,3,3,1,3.0,3.0,3.0,3.0,Severe s-shaped scoliosis
+severe_unilateral_anophthalmia_with_complete_absence_of_the_globe_and_a_shallow_.png,3,3,3,3,2.0,3.0,3.0,3.0,"Severe unilateral anophthalmia with complete absence of the globe and a shallow, underdeveloped orbital socket"
+sharp_dorsal_hump_in_upper_nose.png,3,3,3,3,,,,,Sharp dorsal hump in upper nose
+small_single_preauricular_pit_anterior_to_the_root_of_the_helix_without_swelling.png,2,3,3,3,,,,,"Small, single preauricular pit anterior to the root of the helix, without swelling or sign of injury"
+swan_neck_contracture_of_all_fingers_characterized_by_hyperextension_of_the_prox.png,0,3,3,0,,,,,Swan neck contracture of all fingers characterized by hyperextension of the proximal interphalangeal joints and flexion of the distal interphalangeal joints
+symmetric_global_ulnar_drift.png,0,3,3,0,,,,,Symmetric global ulnar drift
+symmetrical_anteriorly_rotated_ears.png,3,3,1,3,,,,,"Symmetrical, anteriorly rotated ears"
+tooth_abfraction_featuring_deep_wedge_shaped_lesions_across_multiple_teeth.png,3,3,3,3,,,,,"Tooth abfraction featuring deep, wedge-shaped lesions across multiple teeth"
+torticollis_with_an_elevated_shoulder_and_chin_rotated_toward_the_other_directio.png,3,3,3,3,,,,,Torticollis with an elevated shoulder and chin rotated toward the other direction
+trigger_finger_tenosynovitis_affecting_both_hands.png,1,3,1,2,2.0,3.0,3.0,3.0,Trigger finger tenosynovitis affecting both hands
+underbite_with_poor_lip_alignment.png,3,3,3,3,3.0,3.0,3.0,3.0,Underbite with poor lip alignment
+unilateral_drooping_eyelid_with_severely_narrowed_palpebral_fissure.png,3,3,3,3,3.0,3.0,3.0,3.0,Unilateral drooping eyelid with severely narrowed palpebral fissure
+unilateral_full_thickness_upper_eyelid_coloboma_at_the_medialcentral_junction.png,3,3,3,3,,,,,Unilateral full-thickness upper eyelid coloboma at the medial–central junction
+unilateral_hypertropia.png,3,3,3,3,,,,,Unilateral Hypertropia
+unilateral_knee_valgus.png,0,3,3,0,,,,,Unilateral knee valgus
+unilateral_knee_varus.png,3,3,3,1,,,,,Unilateral knee varus
+unilateral_medial_scapular_winging_with_prominent_inferior_angle.png,3,3,3,3,3.0,3.0,3.0,3.0,Unilateral medial scapular winging with prominent inferior angle
+unilateral_shoulder_dislocation_featuring_prominent_anterior_inferior_displaceme.png,0,1,3,1,,,,,"Unilateral shoulder dislocation featuring prominent anterior, inferior displacement of humeral head"
+webbed_neck_with_prominent_skin_folds_running_along_the_sides_of_the_neck_to_the.png,0,1,3,2,,,,,Webbed neck with prominent skin folds running along the sides of the neck to the shoulders
+wrist_level_unilateral_arm_amputation_with_tapered_limb_shape.png,3,3,3,3,3.0,3.0,3.0,3.0,Wrist-level unilateral arm amputation with tapered limb shape

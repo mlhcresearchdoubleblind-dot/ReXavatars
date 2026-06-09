@@ -1,0 +1,81 @@
+File Name,Pathology_expert_1,Realism_expert_1,Composition_expert_1,Pathology_expert_2,Realism_expert_2,Composition_expert_2,prompt
+abnormal_chin_projection.png,3,3,3,3.0,3.0,3.0,Abnormal chin projection
+abnormal_eye_protrusion.png,3,3,2,3.0,3.0,3.0,Abnormal eye protrusion
+abnormal_pupil_size.png,3,3,2,3.0,3.0,3.0,Abnormal pupil size
+abnormal_tilt_of_ear.png,3,3,3,0.0,3.0,2.0,Abnormal tilt of ear
+anophthalmia.png,0,3,3,0.0,3.0,1.0,Anophthalmia
+arachnodactyly.png,3,3,3,,,,Arachnodactyly
+arm_amputation.png,3,3,3,,,,Arm amputation
+arrhinia.png,3,3,3,,,,Arrhinia
+asymmetric_arm_length.png,0,3,3,1.0,3.0,3.0,Asymmetric arm length
+asymmetric_mouth_opening.png,3,3,3,2.0,2.0,3.0,Asymmetric mouth opening
+asymmetric_smile.png,3,3,3,3.0,3.0,3.0,Asymmetric smile
+asymmetrical_ear_size.png,3,3,3,,,,Asymmetrical ear size
+bakers_cyst.png,2,3,3,,,,Baker's cyst
+blepharitis.png,3,3,3,3.0,3.0,3.0,Blepharitis
+boutonniere_deformity.png,2,3,3,2.0,3.0,3.0,Boutonniere deformity
+brachydactyly.png,2,3,3,2.0,2.0,1.0,Brachydactyly
+broken_arm_closed_fracture.png,3,3,2,,,,Broken arm (closed fracture)
+broken_leg_closed_fracture.png,3,3,1,3.0,3.0,3.0,Broken leg (closed fracture)
+bunion.png,1,3,2,2.0,2.0,1.0,Bunion
+cauliflower_ear.png,3,3,3,3.0,3.0,3.0,Cauliflower ear
+cervical_lymphadenopathy.png,3,1,3,,,,Cervical lymphadenopathy
+cleft_lip.png,3,3,3,3.0,3.0,3.0,Cleft lip
+cleft_palate.png,3,3,3,3.0,3.0,3.0,Cleft palate
+clinodactyly_affecting_fingers.png,0,3,3,,,,Clinodactyly affecting fingers
+coloboma_affecting_the_eyelid.png,2,1,3,2.0,1.0,3.0,Coloboma affecting the eyelid
+dental_caries.png,3,3,3,,,,Dental caries
+dental_tartar.png,3,3,3,3.0,3.0,2.0,Dental tartar
+digital_clubbing_affecting_fingers.png,3,3,3,3.0,3.0,3.0,Digital clubbing affecting fingers
+dorsal_hump_in_nose.png,3,3,3,,,,Dorsal hump in nose
+dupuytrens_contracture.png,2,3,3,,,,Dupuytren’s contracture
+excessively_flat_foot_arch.png,0,3,3,,,,Excessively flat foot arch
+excessively_high_foot_arch.png,0,3,3,,,,Excessively high foot arch
+eyebrow_ptosis.png,1,3,3,,,,Eyebrow ptosis
+foot_drop.png,3,3,2,,,,Foot drop
+frontal_bossing.png,2,3,2,,,,Frontal bossing
+genu_recurvatum.png,0,3,3,0.0,3.0,3.0,Genu recurvatum
+goiter.png,3,1,3,,,,Goiter
+gout_affecting_foot.png,3,3,3,3.0,3.0,3.0,Gout affecting foot
+gum_hyperplasia.png,3,3,3,3.0,3.0,3.0,Gum hyperplasia
+hammertoe.png,3,3,3,,,,Hammertoe
+hip_abductor_weakness.png,0,3,3,,,,Hip abductor weakness
+hyperlordosis.png,0,3,3,0.0,3.0,3.0,Hyperlordosis
+hypodontia.png,3,2,3,,,,Hypodontia
+knee_joint_effusion.png,3,2,1,2.0,3.0,3.0,Knee joint effusion
+knee_valgus.png,3,3,3,3.0,3.0,3.0,Knee valgus
+knee_varus.png,3,3,3,,,,Knee varus
+kyphosis.png,3,3,2,3.0,3.0,3.0,Kyphosis
+leg_amputation.png,3,3,3,,,,Leg amputation
+macroglossia.png,3,3,3,3.0,3.0,3.0,Macroglossia
+madarosis_affecting_eyelids.png,3,3,3,,,,Madarosis affecting eyelids
+mallet_finger.png,3,3,3,3.0,3.0,3.0,Mallet finger
+microcephaly.png,3,3,3,,,,Microcephaly
+microtia.png,0,3,2,,,,Microtia
+nasal_tip_collapse.png,0,3,1,,,,Nasal tip collapse
+neck_hump.png,3,2,3,,,,Neck hump
+notch_in_ear.png,3,3,3,,,,Notch in ear
+off_center_columella.png,0,3,3,,,,Off-center columella
+overbite.png,3,3,3,1.0,3.0,3.0,Overbite
+pectus_carinatum_non_sexual_medical_image_of_male_patient.png,0,3,1,,,,"Pectus carinatum (non-sexual, medical image of male patient)"
+pectus_excavatum_non_sexual_medical_image_of_male_patient.png,2,2,1,1.0,3.0,3.0,"Pectus excavatum (non-sexual, medical image of male patient)"
+polydactyly_affecting_fingers.png,3,0,3,2.0,3.0,3.0,Polydactyly affecting fingers
+preauricular_pit.png,2,3,3,3.0,3.0,3.0,Preauricular pit
+rhinophyma.png,3,3,3,,,,Rhinophyma
+saddle_nose_deformity.png,3,3,3,1.0,3.0,3.0,Saddle nose deformity
+scapular_winging.png,3,3,3,3.0,3.0,3.0,Scapular winging
+scoliosis.png,0,3,3,,,,Scoliosis
+shoulder_dislocation.png,3,3,3,,,,Shoulder dislocation
+strabismus.png,3,3,3,,,,Strabismus
+sublaxation_of_patella.png,2,3,3,2.0,3.0,3.0,Sublaxation of patella
+swan_neck_contracture.png,0,3,3,0.0,3.0,3.0,Swan neck contracture
+swollen_parotid_glands.png,3,3,2,,,,Swollen parotid glands
+syndactyly_affecting_fingers.png,3,1,3,,,,Syndactyly affecting fingers
+temporomandibular_joint_dislocation.png,2,2,3,1.0,3.0,3.0,Temporomandibular joint dislocation
+tooth_abfraction.png,3,3,3,3.0,3.0,3.0,Tooth abfraction
+torticollis.png,3,3,1,,,,Torticollis
+trigger_finger_tenosynovitis.png,2,3,3,,,,Trigger finger tenosynovitis
+ulnar_drift.png,0,3,3,,,,Ulnar drift
+underbite.png,3,2,3,,,,Underbite
+unilateral_drooping_eyelid.png,3,3,3,3.0,3.0,3.0,Unilateral drooping eyelid
+webbed_neck.png,0,0,3,0.0,2.0,3.0,Webbed neck
